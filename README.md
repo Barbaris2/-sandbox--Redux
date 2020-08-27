@@ -1,3 +1,0 @@
-- Reducer обычная функция (state, action) => newState
-- Если state - undefined, то нужно вернуть первоначальный (initional) state
-- Если тип action неизвестен - нужно вернуть state без изменений
