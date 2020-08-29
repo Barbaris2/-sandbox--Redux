@@ -16,7 +16,7 @@
 
 - `git checkout master`- пустой проект. Только описание репозитория _(файл README.md)_
 - `git checkout 01_reducer`- чистая функция _reducer()_. Редюсер определяют, как состояние приложения изменяется в ответ на _actions_.
-- `git checkout 02_redux_store` -
+- `git checkout 02_redux_store` - Создает _store_ которое хранит полное дерево состояния приложения. Оно должно быть единственным стором в приложении.
 - `git checkout 03_UI_for_redux` -
 - `git checkout 04_action_with_params` -
 - `git checkout 05_action_creator` -
