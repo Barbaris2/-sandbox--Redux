@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import { createStore, bindActionCreators } from 'redux';
 
-import Counter from './Counter';
+import Counter from './components/Counter';
 
 import reducer from './reducer';
 import * as actions from './actions';
