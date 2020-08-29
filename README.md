@@ -1,6 +1,6 @@
-![](https://github.com/Barbaris2/-sandbox-ReactJS/blob/master/src/images/sandboxreact.jpg?style=centerme)
+![](https://github.com/Barbaris2/-sandbox--Redux/blob/master/images/1.png?style=centerme)
 
-# [sandbox] ReactJS
+# [sandbox]-Redux
 
 Материал для работы с библиотекой **ReactJS**. В данном репозитории моя 'песочница' для закрепления материалов при прохождении обучающих курсов.В данном репозитории рассматриваются новые версии библиотеки, обновлённые и добавленные возможности. А так же функциональности которые устаревают. Это помогает мне понять как работает **ReactJS**.
 
