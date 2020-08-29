@@ -21,8 +21,8 @@
 - `git checkout 04_action_with_params` - передача дополнительных параметров с _action_
 - `git checkout 05_action_creator` - функция _actionCreator()_ создает _action_, но не выполняет его. Для выполнения нужно вызвать функцию _dispatch()_ _(функция-диспетчер которая отправляет action в store)_.
 - `git checkout 06_react_and-redux` - связь **react** и **Redux**.
-- `git checkout 07_react-redux_connect()_mapDispatchProps` -
-- `git checkout 08_mapDispatchProps_how_object` -
+- `git checkout 07_react-redux_connect()_mapDispatchProps` - connect() - компонент высшего порядка который передает значение store и actions в компонент. mapDispatchToProps - второй аргумент для connect()
+- `git checkout 08_mapDispatchProps_how_object` - mapDispatchToProps как объект.
 
 ### Ветки репозитория:
 
