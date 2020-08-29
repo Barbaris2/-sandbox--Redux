@@ -1,1 +1,0 @@
-- bindActionCreators() - связывает функцию action creator с функции dispatch()
